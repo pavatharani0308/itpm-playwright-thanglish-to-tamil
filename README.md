@@ -15,7 +15,7 @@ This project contains **automated functional test cases** developed using **Play
 The automation suite includes:
 
 - 🟢 **25 Positive functional test scenarios**
-- 🔴 **15 Negative functional test scenarios**
+- 🔴 **10 Negative functional test scenarios**
 - 🧩 Different sentence structures (simple, compound, complex)
 - ⏳ Tense variations (past, present, future)
 - 🙏 Polite vs informal phrasing
